@@ -4,5 +4,5 @@
 [![](https://zenn.badge.nikaera.com/s/tsuruo/articles?style=for-the-badge)](https://zenn.dev/tsuruo)
 [![](https://zenn.badge.nikaera.com/s/tsuruo/scraps?style=for-the-badge)](https://zenn.dev/tsuruo?tab=scraps)
 
-pub.dev: https://pub.dev/publishers/htsuruo.com/packages
-Speaker Deck: https://speakerdeck.com/htsuruo
+- pub.dev: https://pub.dev/publishers/htsuruo.com/packages
+- Speaker Deck: https://speakerdeck.com/htsuruo
