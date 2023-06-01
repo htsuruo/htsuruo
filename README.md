@@ -5,4 +5,5 @@
 [![Followers](https://badgen.org/img/zenn/tsuruo/followers?style=for-the-badge)](https://zenn.dev/tsuruo)
 
 - pub.dev: https://pub.dev/publishers/htsuruo.com/packages
+- Firebase Extensions Hub: https://extensions.dev/extensions?provider=htsuruo
 - Speaker Deck: https://speakerdeck.com/htsuruo
