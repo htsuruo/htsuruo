@@ -7,3 +7,4 @@
 - pub.dev: https://pub.dev/publishers/htsuruo.com/packages
 - Firebase Extensions Hub: https://extensions.dev/extensions?provider=htsuruo
 - Speaker Deck: https://speakerdeck.com/htsuruo
+- Medium: https://medium.com/@tsuru.dev
