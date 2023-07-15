@@ -1,4 +1,4 @@
-[![HTsuruo's github stats](https://github-readme-stats.vercel.app/api?username=HTsuruo&count_private=true&show_icons=true&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=50,005bea,00c6fb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![HTsuruo's github stats](https://github-readme-stats.vercel.app/api?username=HTsuruo&count_private=true&show_icons=true&title_color=0B57D0&text_color=1F1F1F&icon_color=0B57D0&bg_color=E7EDF8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Likes](https://badgen.org/img/zenn/tsuruo/likes?style=for-the-badge)](https://zenn.dev/tsuruo)
 [![Articles](https://badgen.org/img/zenn/tsuruo/articles?style=for-the-badge)](https://zenn.dev/tsuruo)
