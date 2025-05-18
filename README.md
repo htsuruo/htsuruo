@@ -9,4 +9,4 @@
 - [Speaker Deck](https://speakerdeck.com/htsuruo): Japanese presentation slides
 - [pub.dev](https://pub.dev/publishers/htsuruo.com/packages): Dart packages
 - [Firebase Extensions Hub](https://extensions.dev/extensions?provider=htsuruo)
-- Contributed to [OSS](https://github.com/issues?q=archived%3Afalse+is%3Apublic+involves%3Ahtsuruo+involves%3Atsuruobiz+sort%3Aupdated-desc+-user%3Ahtsuruo+-user%3Atsuruobiz+-user%3Ateam-tsuruo+)
+- Contributed to [OSS](https://github.com/issues/recent?q=is%3Aissue%20involves%3Ahtsuruo%20sort%3Aupdated-desc%20-user%3Ahtsuruo%20-user%3Atsuruobiz%20-user%3Ateam-tsuruo%20is%3Apublic)
